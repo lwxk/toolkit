@@ -5,3 +5,5 @@ GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '你的密码' WITH GRAN
 flush privileges;  
 exit
 service mysql restart
+
+
